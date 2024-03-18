@@ -164,5 +164,4 @@ cython_debug/
 *.code-workspace
 /data
 /test_patch
-reference
-runs
+*.ttf
