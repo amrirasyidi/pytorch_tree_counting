@@ -160,8 +160,9 @@ cython_debug/
 #.idea/
 
 # additional
-*.zip
-*.code-workspace
 /data
 /test_patch
+/runs
+*.zip
+*.code-workspace
 *.ttf
